@@ -2,7 +2,7 @@ import { Route, Routes } from 'react-router-dom';
 import Home from './pages/Home';
 import CreateNote from './pages/CreateNote';
 import Navber from './components/Navber';
-import Footer from './components/footer';
+import Footer from './components/Footer';
 const App = () => {
   return (
     <>
